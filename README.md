@@ -11,9 +11,9 @@ Manager: View all Time-Sheet and update Status
 Client : Web Brower Chrome or and which support PWA application.
 Dev: I use webpack, firebase, firebase-tool, js and etc.
 
-## Install Game ##
+## Install  ##
 Client: Click on url bar to install pwa app 
 
-## Run Game ##
+## Run ##
 -Sign-up Or Login
 -Dashbaord(Emp)->add/delete time-sheet 
