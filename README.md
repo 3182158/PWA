@@ -15,5 +15,7 @@ Dev: I use webpack, firebase, firebase-tool, js and etc.
 Client: Click on url bar to install pwa app 
 
 ## Run ##
+https://pwa-nagp.firebaseapp.com/
 -Sign-up Or Login
 -Dashbaord(Emp)->add/delete time-sheet 
+
